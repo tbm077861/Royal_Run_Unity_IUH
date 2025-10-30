@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Unity\\Royal_Run\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC2BBE-4F8F-206C-B57B-8676CEB849D2}|Assembly-CSharp.csproj|d:\\project unity\\royal_run\\assets\\scripts\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC2BBE-4F8F-206C-B57B-8676CEB849D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC2BBE-4F8F-206C-B57B-8676CEB849D2}|Assembly-CSharp.csproj|D:\\Project Unity\\Royal_Run\\assets\\scripts\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC2BBE-4F8F-206C-B57B-8676CEB849D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC2BBE-4F8F-206C-B57B-8676CEB849D2}|Assembly-CSharp.csproj|D:\\Project Unity\\Royal_Run\\assets\\imported assets\\3rd party assets\\fantasy skybox free\\releasenotes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94CC2BBE-4F8F-206C-B57B-8676CEB849D2}|Assembly-CSharp.csproj|solutionrelative:assets\\imported assets\\3rd party assets\\fantasy skybox free\\releasenotes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chunk.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Royal_Run\\Assets\\Scripts\\Chunk.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Chunk.cs",
+              "ToolTip": "D:\\Project Unity\\Royal_Run\\Assets\\Scripts\\Chunk.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Chunk.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:34:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObstacleSpawner.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Royal_Run\\Assets\\Scripts\\ObstacleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleSpawner.cs",
+              "ToolTip": "D:\\Project Unity\\Royal_Run\\Assets\\Scripts\\ObstacleSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:09:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReleaseNotes.txt",
+              "DocumentMoniker": "D:\\Project Unity\\Royal_Run\\Assets\\Imported Assets\\3rd Party Assets\\Fantasy Skybox FREE\\ReleaseNotes.txt",
+              "RelativeDocumentMoniker": "Assets\\Imported Assets\\3rd Party Assets\\Fantasy Skybox FREE\\ReleaseNotes.txt",
+              "ToolTip": "D:\\Project Unity\\Royal_Run\\Assets\\Imported Assets\\3rd Party Assets\\Fantasy Skybox FREE\\ReleaseNotes.txt",
+              "RelativeToolTip": "Assets\\Imported Assets\\3rd Party Assets\\Fantasy Skybox FREE\\ReleaseNotes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-21T14:40:19.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
