@@ -1,0 +1,15 @@
+# Cấu hình Server
+PORT=3000
+HOST=localhost
+NODE_ENV=development
+
+# Cấu hình Database
+DB_HOST=127.0.0.1
+DB_PORT=5432
+DB_USER=admin
+DB_PASS=mat_khau_bi_mat
+DB_NAME=ten_database
+
+# Các khóa bí mật (API Keys, Secrets)
+JWT_SECRET=chuoi_ky_tu_ngau_nhien_dai_loang_ngoang
+API_KEY_GOOGLE=AIzaSyD...
